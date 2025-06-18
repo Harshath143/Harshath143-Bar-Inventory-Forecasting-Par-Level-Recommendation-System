@@ -1,6 +1,6 @@
-# 🍹 Bar Inventory Forecasting & Par Level Recommendation System
+#  Bar Inventory Forecasting & Par Level Recommendation System
 
-## 📌 Project Overview
+## Project Overview
 
 A growing hotel chain is facing **frequent stockouts of popular bar items** and **overstocking of slow-moving inventory**. These inefficiencies are leading to increased operational costs and poor guest experiences.
 
@@ -11,7 +11,7 @@ This project provides a **demand forecasting and inventory recommendation system
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - 📈 **Forecast item-level weekly consumption** for each brand at each bar
 - 🧯 **Calculate safety stock** based on recent demand volatility
@@ -21,7 +21,7 @@ This project provides a **demand forecasting and inventory recommendation system
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 - Handled date conversion, missing values
@@ -56,7 +56,7 @@ This project provides a **demand forecasting and inventory recommendation system
 
 ## 📦 Key Outputs
 
-### 🔮 Weekly Forecast (Sample)
+###  Weekly Forecast (Sample)
 
 | Bar Name        | Brand Name | Forecast Week | Forecast Consumption (ml) |
 |----------------|------------|----------------|----------------------------|
