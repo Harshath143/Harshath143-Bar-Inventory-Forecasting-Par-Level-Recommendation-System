@@ -129,8 +129,8 @@ This project provides a **demand forecasting and inventory recommendation system
 | `README.md`                   | Project summary and documentation        |
 
 
-# Short Report: Inventory Forecasting and Par Level Recommendation System
-
+## Short Report:
+---
 ## What is the core business problem and why does it matter?
 
 The main issue in this project is that a hotel chain with many bars is either running out of stock for popular liquor brands or ordering too much of items that don’t sell quickly.
